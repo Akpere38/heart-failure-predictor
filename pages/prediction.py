@@ -5,7 +5,6 @@ import pickle
 import numpy as np
 import pandas as pd
 import joblib
-import shap
 import matplotlib.pyplot as plt
 
 class Predictor:

@@ -13,5 +13,4 @@ __pycache__/
 # OS files
 .DS_Store
 
-# Models if large (>25MB)
-*.pkl
+

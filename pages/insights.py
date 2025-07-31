@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
 import joblib
-import shap
 import numpy as np
 
 class InsightsPage:
